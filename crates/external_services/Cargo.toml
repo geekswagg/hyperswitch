@@ -43,7 +43,7 @@ serde = { version = "1.0.219", features = ["derive"] }
 thiserror = "1.0.69"
 vaultrs = { version = "0.7.4", optional = true }
 prost = { version = "0.13", optional = true }
-tokio = "1.45.1"
+tokio = "1.46.1"
 tonic = "0.13.1"
 tonic-reflection = "0.13.1"
 tonic-types = "0.13.1"
