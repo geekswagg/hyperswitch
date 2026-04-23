@@ -21,7 +21,7 @@ dummy_connector = [
 actix-web = "4.11.0"
 async-trait = "0.1.88"
 base64 = "0.22.1"
-bytes = "1.10.1"
+bytes = "1.11.1"
 chrono = "0.4"
 crc = "3"
 crypto = "0.2"
@@ -38,11 +38,11 @@ lazy_static = "1.5.0"
 mime = "0.3.17"
 num-traits = "0.2.19"
 nanoid = "0.4.0"
-openssl = {version = "0.10.70"}
+openssl = {version = "0.10.78"}
 pem = "3.0.5"
 qrcode = "0.14.1"
 quick-xml = { version = "0.31.0", features = ["serialize"] }
-rand = "0.8.5"
+rand = "0.9.1"
 regex = "1.11.1"
 reqwest = { version = "0.11.27" }
 ring = "0.17.14"
@@ -57,7 +57,7 @@ serde_with = "3.12.0"
 sha1 = { version = "0.10.6" }
 sha2 = "0.10"
 strum = { version = "0.26", features = ["derive"] }
-time = "0.3.41"
+time = "0.3.47"
 unicode-normalization = "0.1.24"
 utoipa = { version = "4.2.3", features = ["preserve_order", "preserve_path_order", "time"] }
 url = "2.5.4"
